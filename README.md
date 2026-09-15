@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jonathan 👋
 
-<!--
-**jonathanziadie/jonathanziadie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Florida Atlantic University interested in
+software engineering, artificial intelligence, and cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science @ Florida Atlantic University  
+💻 Interested in Software Engineering, AI, and Cybersecurity  
+🚀 Building projects and gaining hands-on software engineering experience  
+📚 Currently expanding my skills in C++, Python, web development, and Git
+
+## Technologies
+
+Python • C++ • Java • HTML • CSS • JavaScript • Git • GitHub
+
+## Featured Projects
+
+Coming soon!
+
+## Connect With Me
+
+LinkedIn: [Jonathan Ziadie](YOUR-LINKEDIN-URL)
