@@ -20,4 +20,4 @@ Coming soon!
 
 ## Connect With Me
 
-LinkedIn: [Jonathan Ziadie](YOUR-LINKEDIN-URL)
+LinkedIn: https://www.linkedin.com/in/jonathan-ziadie/
